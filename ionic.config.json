@@ -1,0 +1,7 @@
+{
+  "name": "space-blnak",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
